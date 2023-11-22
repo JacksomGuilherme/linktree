@@ -18,6 +18,10 @@ Esse projeto foi desenvolvido conforme o que foi ensinado no curso gratuito do s
 <br>
 
 <p align="center">
+  <a href="https://jacksomguilherme.github.io/linktree/">GitHub Pages</a>
+</p
+  
+<p align="center">
   <img alt="projeto Links Tree" src=".github/preview.png" width="100%">
 </p>
 
